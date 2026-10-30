@@ -1,2 +1,2 @@
-# amyaxy.github.io
+# 博客
 https://amyaxy.github.io
